@@ -1,2 +1,3 @@
 # spacebox
-A sandbox game in space.
+A sandbox game in space.  
+
